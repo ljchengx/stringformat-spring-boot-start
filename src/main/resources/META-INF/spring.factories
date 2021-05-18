@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.ljchengx.config.FormatAutoConfiguration,\
+org.ljchengx.config.AutoConfiguration
